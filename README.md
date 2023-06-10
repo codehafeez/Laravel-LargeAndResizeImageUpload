@@ -22,7 +22,8 @@ CMD => php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/Laravel-DomPDF/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-LargeAndResizeImageUpload/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-LargeAndResizeImageUpload/main/Screenshots/Output-02.png)
 
 
 ## 🔗 www.codehafeez.com
